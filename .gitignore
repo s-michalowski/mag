@@ -1,1 +1,14 @@
 wynik.csv
+
+# PyCharm / Python
+.idea/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+
+api/data/wynik.csv
+api/kolejka.xlsx
+api/queue_add_batch.json
+api/excel_to_json.py
